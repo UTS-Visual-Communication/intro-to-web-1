@@ -44,4 +44,7 @@ p{
   /* text-indent: 35px; */
   font-size: 25px;
   color: #888888;
+  
+  /* We can also adjust a paragraphs or other text elements line height */
+  line-height: 40px;
 }
